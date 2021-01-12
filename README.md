@@ -4,4 +4,4 @@ This was an assignment for younger students taking COMP-248 but I chose to do it
 
 The game is played against the computer.
 
-I hope you enjoy it!
+Hope you enjoy it!
